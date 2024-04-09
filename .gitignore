@@ -1,0 +1,11 @@
+.venv*
+**/__pycache__
+.mypy_cache
+.vscode
+.pytest_cache
+**/.data
+**/.taipy
+**/user_data
+data.private
+notebooks.private
+data/*
